@@ -5,7 +5,7 @@ package fly;
  * It is a super class of the classes Jet and Biplane.
  */
 public class Airplane {
-    private int speed;
+    public int speed;
 
     public Airplane() {
         speed = 0;
